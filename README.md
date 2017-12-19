@@ -7,7 +7,8 @@ This is a book tracking application
 git clone https://github.com/ycbdmss/mybooking.git
 
 
-npm install -g create-react-app
+npm install 
+
 npm start
 
 
