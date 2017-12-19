@@ -1,4 +1,4 @@
-# MyReads: A Book Tracking App Using ReactJs
+# MyReads: react project 1
 
 This is a book tracking application 
 
