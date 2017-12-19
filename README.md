@@ -4,11 +4,7 @@ This is a book tracking application
 
 ## Installation
 
-
-* Clone the GitHub repository and install these dependencies
-
-```
-$ git clone 
+git clone https://github.com/ycbdmss/mybooking.git
 
 
 npm install -g create-react-app
